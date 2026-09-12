@@ -23,6 +23,13 @@ The findings translate into two concrete, low-cost recommendations for drivers: 
 ## Tech stack
 PySpark (data processing, LASSO and Random Forest regression), Python, geospatial visualisation
 
+## How to Run the Project
+Run the notebooks in the following order:
+   - `notebooks/preprocessing.ipynb`
+   - `notebooks/feature_engineering.ipynb`
+   - `notebooks/analysis.ipynb`
+   - `notebooks/modelling.ipynb`
+
 ## Repo structure
 ```
 notebooks/                                    # PySpark analysis pipeline
