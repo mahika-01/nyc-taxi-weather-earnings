@@ -1,0 +1,9 @@
+venv/
+data/*
+!data/raw/
+data/raw/*
+!data/raw/LCD_*.csv
+
+__pycache__/
+.ipynb_checkpoints/
+outputs/
