@@ -25,8 +25,9 @@ PySpark (data processing, LASSO and Random Forest regression), Python, geospatia
 
 ## Repo structure
 ```
-notebooks/       # PySpark analysis pipeline
-report/          # Written report (PDF) with full figures and tables
+notebooks/                                    # PySpark analysis pipeline
+NYC Taxi Weather Earnings Report.pdf          # Written report with detailed analysis
+data/raw/                                     # Raw NOAA weather data
 requirements.txt
 ```
 
